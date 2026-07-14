@@ -17,8 +17,11 @@ services:
         value: https://ollama.com
       - key: OLLAMA_API_KEY
         sync: false
+      # qwen3.5:397b matches the local dev default but requires a paid
+      # Ollama Cloud subscription. minimax-m2.5 is free-tier accessible
+      # and produces coherent Georgian; swap back if you upgrade your plan.
       - key: OLLAMA_MODEL
-        value: qwen3.5
+        value: minimax-m2.5
       - key: OLLAMA_TIMEOUT_SECONDS
         value: "120"
       - key: OLLAMA_CONTEXT_SIZE
