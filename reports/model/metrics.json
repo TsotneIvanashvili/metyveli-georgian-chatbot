@@ -1,0 +1,40 @@
+{
+  "dataset_rows": 230,
+  "train_rows": 173,
+  "test_rows": 57,
+  "split": "GroupShuffleSplit by source sentence",
+  "best_model": "Linear SVM",
+  "best_metrics": {
+    "model": "Linear SVM",
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "baseline_metrics": {
+    "model": "Majority baseline",
+    "accuracy": 0.7368,
+    "macro_f1": 0.4242
+  },
+  "all_results": [
+    {
+      "model": "Majority baseline",
+      "accuracy": 0.7368,
+      "macro_f1": 0.4242
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.9825,
+      "macro_f1": 0.9778
+    },
+    {
+      "model": "Linear SVM",
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "model": "Multinomial Naive Bayes",
+      "accuracy": 0.7368,
+      "macro_f1": 0.4242
+    }
+  ],
+  "model_path": "models\\grammar_classifier.joblib"
+}

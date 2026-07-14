@@ -1,0 +1,43 @@
+{
+  "email": "ui-audit-1783004526534@local.test",
+  "desktopMetrics": {
+    "viewport": [
+      1440,
+      900
+    ],
+    "documentWidth": 1440,
+    "bodyWidth": 1440,
+    "heading": "გამარჯობა, UI\nრით შემიძლია დაგეხმარო?",
+    "suggestionCount": 3,
+    "suggestionOverflow": false,
+    "buttonsWithoutNames": [
+      "<button class=\"new-chat-button\" type=\"button\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" fill=\"currentColor\" viewBox=\"0 0 256 256\"><path d=\"M228,128a12,12,0,0,1-12,12H140v76a12,12,0,0,1-24,0V140H40a12,12,0,0,1,0-24h76V40"
+    ]
+  },
+  "drawerOpenMetrics": {
+    "ariaHidden": "false",
+    "inert": false,
+    "focusedElement": "search"
+  },
+  "drawerClosedMetrics": {
+    "ariaHidden": "true",
+    "inert": true
+  },
+  "mobileMetrics": {
+    "viewport": [
+      390,
+      844
+    ],
+    "documentWidth": 390,
+    "bodyWidth": 390,
+    "tooSmall": [],
+    "headingOverflow": false
+  },
+  "authMobileMetrics": {
+    "documentWidth": 390,
+    "viewportWidth": 390,
+    "tooSmall": []
+  },
+  "runtimeErrors": [],
+  "consoleErrors": []
+}

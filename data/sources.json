@@ -1,0 +1,31 @@
+[
+  {
+    "name": "ქართული ვიკიწყარო",
+    "url": "https://ka.wikisource.org/",
+    "usage": "ლექსების, მოთხრობების, პოემებისა და სხვა ლიტერატურული ტექსტების მოძიება MediaWiki API-ით",
+    "license": "CC BY-SA; თითოეული გვერდის სტატუსი და ატრიბუცია ინახება ჩანაწერთან",
+    "included_automatically": true
+  },
+  {
+    "name": "საქართველოს განათლების, მეცნიერებისა და ახალგაზრდობის სამინისტრო",
+    "url": "https://mes.gov.ge/content.php?id=12706&lang=geo",
+    "usage": "საბაზო საფეხურის გრამატიკული თემების სიისა და სასწავლო მიმართულების განსაზღვრა",
+    "license": "ოფიციალური საჯარო ვებრესურსი; პროექტში ინახება მხოლოდ წყაროს ბმული და ავტორისეული მოკლე შეჯამებები",
+    "included_automatically": false
+  },
+  {
+    "name": "ქართული გრამატიკა: სრული კურსი",
+    "url": "https://dspace.nplg.gov.ge/handle/1234/194574",
+    "usage": "1917 წლის ისტორიული გრამატიკის ცნობარი და ტერმინოლოგიის გადამოწმება",
+    "license": "ეროვნული ბიბლიოთეკის საჯაროდ ხელმისაწვდომი ციფრული ეგზემპლარი",
+    "included_automatically": false
+  },
+  {
+    "name": "RichNachos Georgian Corpus",
+    "url": "https://huggingface.co/datasets/RichNachos/georgian-corpus",
+    "usage": "არასავალდებულო დიდი ქართული კორპუსი შემდგომი ექსპერიმენტებისთვის",
+    "license": "GPL-3.0",
+    "included_automatically": false
+  }
+]
+

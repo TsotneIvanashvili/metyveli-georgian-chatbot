@@ -1,0 +1,5 @@
+﻿model,accuracy,macro_f1
+Linear SVM,1.0,1.0
+Logistic Regression,0.9825,0.9778
+Majority baseline,0.7368,0.4242
+Multinomial Naive Bayes,0.7368,0.4242
